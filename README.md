@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Mark Williams
+Founder @ [Thinkata](https://github.com/Thinkata) | Building adaptive AI systems
 
-<!--
-**willmark/willmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Current Focus
+Designing AI-native architectures that learn and evolve with their environments.
 
-Here are some ideas to get you started:
+### 🧩 Featured Work
+- [Thinkata Research](https://thinkata.com)
+- [Adaptive Systems Paper](https://medium.com/@markjwilliams)
+- [Thinkata Org Repos →](https://github.com/Thinkata)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect
+[LinkedIn](https://linkedin.com/in/mark-williams-founder) • [Medium](https://markjwilliams.medium.com) • [X](https://x.com/ThinkataUSA)
+
+👉 Most of my active repositories and research now live under [Thinkata →](https://github.com/Thinkata)
